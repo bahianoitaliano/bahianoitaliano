@@ -1,5 +1,5 @@
 ### bem vindo ao meu perfil ###
-  meu nome é Matheus Fernandes
+  Meu nome é Matheus Fernandes
 
 -Estou estudando no Alura. 
 
