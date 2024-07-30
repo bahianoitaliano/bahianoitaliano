@@ -5,4 +5,6 @@
 
 -Estou desenvolvendo uma linguagem JavaScript
 
--Utiliza para esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos. 
+-Utilizo para esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos. 
+
+![](https://media1.tenor.com/m/ROmHpJtLn7gAAAAd/omeger-icon-watches-tv.gif) 
